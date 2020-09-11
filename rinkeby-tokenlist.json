@@ -1,0 +1,31 @@
+{
+    "name": "XP3",
+    "logoURI": "https://raw.githubusercontent.com/xp3-blockchain/xp3-tokenlist/master/logo.png",
+    "keywords": [
+        "Defi",
+        "XP3",
+        "curated"
+    ],
+    "tags": {
+        "defi": {
+            "name": "DeFi Token",
+            "description": "Token listed at XP3 curated list"
+        }
+    },
+    "timestamp": "2020-09-11T00:00:00+00:00",
+    "tokens": [{
+        "chainId": 4,
+        "address": "0xcb968f770dac20e38557f1a6cbbb0285b81e3583",
+        "symbol": "yp",
+        "name": "yp",
+        "decimals": 18,
+        "tags": [
+            "defi"
+        ]
+    }],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 5
+    }
+}
