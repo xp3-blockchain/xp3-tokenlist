@@ -32,7 +32,18 @@
             "tags": [
                 "defi"
             ]
+        },
+        {
+            "chainId": 4,
+            "address": "0x06AF653e0d15Dd7B9F07F98e53eD1f06b93E899e",
+            "symbol": "yp2",
+            "name": "yp2",
+            "decimals": 18,
+            "tags": [
+                "defi"
+            ]
         }
+
     ],
     "version": {
         "major": 1,
