@@ -42,6 +42,16 @@
             "tags": [
                 "defi"
             ]
+        },
+        {
+            "chainId": 4,
+            "address": "0xb6b382384756c1a2722F76725C084621C55A878c",
+            "symbol": "yp3",
+            "name": "yp3",
+            "decimals": 18,
+            "tags": [
+                "defi"
+            ]
         }
 
     ],
